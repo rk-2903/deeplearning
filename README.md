@@ -168,7 +168,5 @@ print(tokenizer.decode(output_ids[0], skip_special_tokens=True))
 
 ## Contact
 
-**Author:** RK (Rahul Kumar)
-
 * Hugging Face: [@rk2903](https://huggingface.co/rk2903)
 * Google Drive: [Project Files & Checkpoints](https://drive.google.com/drive/folders/1PGSBgiuRB8Biqq4AbCPvOmE2l1tLLdnU?usp=sharing)
