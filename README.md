@@ -1,9 +1,13 @@
 # MEDIQA 2021 – Consumer Health Question & Multi-Answer Summarization
 
-**Team Project:** *Advanced Neural Approaches for Extractive and Abstractive Text Summarization in Health Information Retrieval*
-**Model Author:** [@rk2903](https://huggingface.co/rk2903)
-**Competition Reference:** [MEDIQA 2021 Shared Task](https://www.aclweb.org/anthology/2021.bionlp-1.34/)
+**Team Project:** * Group 11: Advanced Neural Approaches for Extractive and Abstractive Text Summarization in Health Information Retrieval*
 
+**Team Members:** 
+- Rahul Kumar - 11859007 [@rk2903](https://huggingface.co/rk2903)
+- Veera Venkata Megha Shyam Ankem - 11807512	
+- Suguna Sai Navaneeth Rentala - 11800972
+- Aditya Narayana Reddy Nallimilli - 11805743
+  
 ---
 
 ## Project Resources
