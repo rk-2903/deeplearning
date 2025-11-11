@@ -119,7 +119,7 @@ python evaluate_t5.py
 ```
 learning_rate = 5e-5
 batch_size    = 8
-num_epochs    = 3
+num_epochs    = 8
 max_source_len = 512 (Task 1) / 1024 (Task 2)
 max_target_len = 64 (Task 1) / 128 (Task 2)
 ```
