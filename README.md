@@ -19,6 +19,8 @@
 | **T5 Model Checkpoint (Task 1)**           | [rk2903/t5_meqsum_summarizer](https://huggingface.co/rk2903/t5_meqsum_summarizer)                    |
 | **Datasets (MeQSum & MEDIQA-AnS)**         | [rk2903/datasets](https://huggingface.co/rk2903/datasets)                                            |
 
+Colab Link - https://colab.research.google.com/drive/11nz8z7Zwnac2trGu3_lHl5fVzMtkp20G?usp=sharing
+
 ---
 
 ## Tasks Overview
